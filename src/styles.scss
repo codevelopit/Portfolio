@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+.container-wrapper {
+    height: calc(100vh - 56px);
+    width: 100vw;
+}
+
+.bg-light-grey {
+    background-color:#F7F8FB;
+}
